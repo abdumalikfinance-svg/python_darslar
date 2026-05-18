@@ -1,2 +1,2 @@
 # python_darslar
-udhbu repsitoryda python darslari bor
+ushbu repsitoryda python darslari bor
