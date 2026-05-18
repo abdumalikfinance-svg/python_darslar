@@ -13,5 +13,5 @@ def oraliq(min, max, qadam=1):
     return sonlar
 
 # Tekshirish:
-print(oraliq(2, 10, 2))  # Natija: [2, 4, 6, 8]
+#print(oraliq(2, 10, 2))  # Natija: [2, 4, 6, 8]
 print(oraliq(5, 15))     # Natija: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
